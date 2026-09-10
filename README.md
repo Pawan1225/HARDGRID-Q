@@ -59,7 +59,7 @@ Enterprise Partner: **E.ON**
 
 ## Repository Structure
 
-```text
+
 HARDGRID-Q/
 ├── README.md
 ├── docs/
@@ -67,3 +67,10 @@ HARDGRID-Q/
 │       ├── GRID-Q_Fujitsu_2026_Report.pdf
 │       └── Q-RESGRID_Fujitsu_2026_Report.pdf
 └── LICENSE
+
+
+License
+
+Project code and original repository content are provided under the MIT License unless otherwise stated.
+
+Third-party challenge materials and referenced publications remain subject to their respective copyright and licensing terms.
